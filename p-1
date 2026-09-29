@@ -1,0 +1,52 @@
+Day-1
+We did research on what we are doing and how it's going to be a Unique and profitable project.
+->Draggy GPS.
+Why? (Problems):
+1. No Performance measuring tools available in Pakistan. There are a few dynos for horse power and power figure measurements but mostly people cannot afford it or travel to different cities after making major or minor changes to their machines and then tracking the difference it makes in performance.
+Dynos Available in:
+Karachi: Unichip Pakistan (R&D Centre features specialized dynamometer testing facilities)
+Islamabad: Auto Surgeon / HyperTune Garage
+Lahore: Auto Force PK
+( NOT very cost effective for multiple takes or under developed mods,why? Out of city for most of the users and expensive ) costs 25k to 60k pkr and above according to the complexity of the runs.
+2. No accurate way to measure the difference in performance and no accurate way to measure the real time speed with precision.(mobile apps and cheap meters are available but their accuracy is not for professional use )
+Most accurate mobile app (Ulysse Speedometer) 
+No specific device available in Pakistan for this purpose
+Only available option:
+
+3. Offline maps (more accurate than a phone offline map). 
+4. Dedicated hardware for professional use (mostly people dont have multiple expensive phones )
+
+
+-> Target users 
+1. Motorcycle Riders (professionals)
+2. Automotive runners
+3. Racing strips or drag users (located in lahore now)
+4. Guys interested in machine 
+
+->Goal of the project
+Ready to use product in Pak for less cost and more features. Real time speed with performance trackers plus hp calculator and offline maps ( may add a lean angle feature )
+Requires no internet to work.
+
+->Limitations of this project
+Cannot work indoors or in tunnels, requires clear sky above (can work through glass or fiber or plastic ) we can fix it through Ai (integration of local ai)
+ 
+->ADD ONS
+Lean angle sensors
+Offline maps 
+Brakes tester
+Long trips avg calculator
+
+->Progress
+We made the hardware required for this project, it is purely based on iot modules keeping the cost low and easy to scale later.
+The modules we used so far
+ESP32 the brain
+Neo 6m GPS module 
+Lithium battery 4500mah (5 hours tested backup)
+Mini oled display 
+Usb c charging/overcharge-discharge module
+A button to turn on and off
+It is in rough shape for now (room for addons)
+Code is done by Ai for now:
+The process- Provided all the information to Gemini pro for extended thinking and create a set of instruction for the claude to make a working code. 
+Took multiple takes to get it right.
+
